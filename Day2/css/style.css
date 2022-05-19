@@ -1,0 +1,27 @@
+/* This is a css comment */
+p {
+    color: purple;
+}
+a {
+    color: red;
+}
+p {
+    color: green;
+}
+h1 {
+    color: orange;
+}
+/* 
+selector/element {
+    property: value;
+}
+*/
+div {
+    background-color: aquamarine;
+    width: 1000px;
+    height: 200px;
+}
+/* 
+units of measurement:
+inches, cm, mm, px, percent %, vh (viewport height), vw
+*/
