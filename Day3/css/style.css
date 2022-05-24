@@ -1,0 +1,53 @@
+/* * as an element selector will target every single tag in existence */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* id is represented by # and should only be used once*/
+#box1 {
+    background-color: blue;
+}
+/* classes are represented by . can be used as many times as you want*/
+.red {
+    background-color: red;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: purple !important;
+    color: #fff;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+h1 {
+    color: orange;
+}
+
+/* div h1, p {
+    color: green;
+}
+
+div > h1 {
+    color: yellow;
+} 
+
+div.red h1, div#blue > a {
+    color: lavender;
+}
+*/
+
+ul li {
+    list-style-type: none;
+}
+
+nav {
+    background-color: gainsboro;
+    text-align: right;
+    padding: 10px;
+}
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
