@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    text-align: right;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+    background-color: gainsboro;
+}
+nav ul li.active {
+    background-color: teal;
+}

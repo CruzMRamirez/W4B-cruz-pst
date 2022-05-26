@@ -18,24 +18,31 @@ div {
     background-color: purple !important;
     color: #fff;
     margin-bottom: 20px;
-    display: inline-block;
 }
 
 h1 {
     color: orange;
 }
 
-/* div h1, p {
+/*
+ div h1, p {
     color: green;
 }
 
 div > h1 {
     color: yellow;
 } 
-
 div.red h1, div#blue > a {
     color: lavender;
 }
+rgb
+#000000
+#fff
+#000
+
+rgba( 0, 0, 0, 1)
+
+hsl
 */
 
 ul li {
@@ -47,6 +54,7 @@ nav {
     text-align: right;
     padding: 10px;
 }
+
 nav ul li {
     display: inline;
     margin: 10px;
