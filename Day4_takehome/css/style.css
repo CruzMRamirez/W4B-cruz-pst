@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+nav {
+    text-align: right;
+    height: 50px;
+    padding: 20px;
+}
+
+nav ul {
+    margin: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav img {
+    float: left;
+    height: 50px;
+}
